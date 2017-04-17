@@ -5,5 +5,7 @@ React Word Animation
 
 React component used to animate words.
 
+[Live Demo](https://lyralux.github.io/react-word-animation)
+
 ## Todo
 Add README
