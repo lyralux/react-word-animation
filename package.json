@@ -1,5 +1,6 @@
 {
   "name": "react-word-animation",
+  "homepage": "http://lyralux.github.io/react-word-animation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
